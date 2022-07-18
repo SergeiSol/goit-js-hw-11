@@ -96,7 +96,7 @@
 52D:\goit-js-hw-11\node_modules\source-map\lib\util.js133022954462359334 0
 70D:\goit-js-hw-11\node_modules\@parcel\source-map\parcel_sourcemap_wasm133022954462119960 1
 59D:\goit-js-hw-11\node_modules\csso\lib\clean\Declaration.js133022954464024871 0
-31D:\goit-js-hw-11\src\styles.css133026281808683550 0
+31D:\goit-js-hw-11\src\styles.css133026287416655820 0
 70D:\goit-js-hw-11\node_modules\dom-serializer\node_modules\entities\lib133022954462887904 1
 70D:\goit-js-hw-11\node_modules\@jridgewell\sourcemap-codec\package.json133022954458228195 0
 68D:\goit-js-hw-11\node_modules\css-tree\lib\syntax\node\IdSelector.js133022954465660514 0
@@ -120,7 +120,7 @@
 57D:\goit-js-hw-11\node_modules\css-tree\lib\utils\clone.js133022954462738309 0
 56D:\goit-js-hw-11\node_modules\utility-types\package.json133022954460542021 0
 96D:\goit-js-hw-11\node_modules\parcel-reporter-clean-dist\test\fixtures\packageV4\files\file1.txt133022954464693100 0
-21D:\goit-js-hw-11\dist133026281810214423 1
+21D:\goit-js-hw-11\dist133026287418053771 1
 76D:\goit-js-hw-11\node_modules\caniuse-lite\data\features\css-color-adjust.js133022954467485642 0
 48D:\goit-js-hw-11\node_modules\dom-serializer\lib133022954462568759 1
 90D:\goit-js-hw-11\node_modules\htmlnano\docs\versioned_docs\version-1.1.1\060-contribute.md133022954466169140 0
@@ -4913,8 +4913,8 @@
 43D:\goit-js-hw-11\node_modules\.bin\svgo.cmd133022954472462318 0
 41D:\goit-js-hw-11\node_modules\.bin\terser133022954472462318 0
 45D:\goit-js-hw-11\node_modules\.bin\terser.cmd133022954472462318 0
-40D:\goit-js-hw-11\dist\index.4d663569.css133026281810184493 0
-44D:\goit-js-hw-11\dist\index.4d663569.css.map133026281810194453 0
+40D:\goit-js-hw-11\dist\index.4d663569.css133026287418013969 0
+44D:\goit-js-hw-11\dist\index.4d663569.css.map133026287418013969 0
 39D:\goit-js-hw-11\dist\index.975ef6c8.js133026276891338828 0
 43D:\goit-js-hw-11\dist\index.975ef6c8.js.map133026276891358786 0
 40D:\goit-js-hw-11\dist\index.eee7cb62.css133024688556096806 0
