@@ -1,7 +1,7 @@
 export default function renderGallery(images) {
     const markUp = images.map(image => {
         return `<a class="photo-card" href="${image.largeImageURL}">
-                <img src="${image.webformatURL}" alt="${image.tags}" loading="lazy" />
+                <img class ="image" src="${image.webformatURL}" alt="${image.tags}" loading="lazy" />
                     <div class="info">
                         <p class="info-item">
                             <b>Likes</b><br/>${image.likes}

@@ -12,9 +12,33 @@ body {
     line-height: 1.5;
 }
 .load-more {
+    
     background-color: #22a2aa;
+    
 }
 .search-form {
     background-color: #22a2aa;
     text-align: center;
+}
+.info {
+    display: flex;
+}
+.info-item {
+   
+    text-align: center;
+    color: black;
+    margin-left: 10px;
+}
+.photo-card {
+   display: inline-block;
+    border: 2px solid #55c5e9;
+    padding: 15px;
+    background: #bebebe;
+    margin-right: 10px;
+    margin-bottom: 10px;
+  
+}
+.image {
+    width: 300px;
+    height: 200px;
 }
