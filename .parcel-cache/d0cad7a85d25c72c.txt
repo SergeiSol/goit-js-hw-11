@@ -49,7 +49,7 @@
 58D:\goit-js-hw-11\node_modules\type-fest\source\except.d.ts133022954462379263 0
 57D:\goit-js-hw-11\node_modules\@parcel\events\src\types.js133022954461565872 0
 47D:\goit-js-hw-11\node_modules\has-flag\index.js133022954458028727 0
-29D:\goit-js-hw-11\package.json133024686654228904 0
+29D:\goit-js-hw-11\package.json133026895882502352 0
 62D:\goit-js-hw-11\node_modules\lmdb\dependencies\lmdb\libraries133022954458278062 1
 66D:\goit-js-hw-11\node_modules\utility-types\dist\mapped-types.d.ts133022954462927804 0
 63D:\goit-js-hw-11\node_modules\entities\lib\encode-trie.d.ts.map133022954462887904 0
